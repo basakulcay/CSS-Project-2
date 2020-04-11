@@ -1,0 +1,17 @@
+img {border-radius: 50%;width: 100%;}
+head, body {margin: 18px;}
+.about-me {font-size:20px; 
+opacity:0.5;margin: 15px;}
+
+.title {font-color: green;
+  font-weight: bold;}
+
+h1,h2 {color:Green;}
+
+h1{text-align: center;}
+
+body, head {font-family:Georgia;}
+
+div.header {border: 4px solid green ;} 
+
+
